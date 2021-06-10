@@ -1,0 +1,100 @@
+.header__content {
+    padding: 10px;
+    background-color: #20232a;
+}
+
+.menu__list {
+    margin: 0px;
+    padding-inline-start: 0px;
+    list-style: none;
+    display: flex;
+    justify-content: start;
+}
+
+.menu__list li {
+    margin: 0px 32px 0px 0px;
+}
+
+.menu__link {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.menu__link:hover {
+    color: #61dafb;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0px;
+    background-color: #F0ECE9;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+    max-width: 1080px;
+    min-height: 100vh;
+    margin: 0px auto 0px auto;
+    background-color: white;
+}
+
+.language__content {
+    padding: 10px 30px 10px 30px;
+}
+
+.language__example__code {
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 3px 10px 3px 10px;
+    background-color: rgb(40, 44, 52);
+    color: white;
+}
+
+.language__title {
+    margin: 10px 0px 10px 0px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.text {
+    font-size: 18px;
+}
+
+.language__example__name {
+    margin-bottom: 3px;
+}
+
+.main__content {
+    padding: 10px 30px 10px 30px;
+}
+
+.main__text {
+    font-weight: 500;
+}
+
+.author__name {
+    margin: 5px;
+    font-weight: 600;
+}
+
+.main__title {
+    margin: 20px 0px 10px 0px;
+}
+
+.main__authors {
+    margin: 15px 0px 10px 0px;
+}
